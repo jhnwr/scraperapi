@@ -15,3 +15,6 @@ basic data will be returned to you in JSON.
 
 #### Purpose
 Educational/learning
+
+#### What next?
+Expand on this to include different websites, returning more data.
